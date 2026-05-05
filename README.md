@@ -24,7 +24,7 @@ assuming Gaussian-distributed features per class.
 
 ## Files
 - `po1.ipynb` — full implementation notebook
-- `po1.pdf` — detailed project report
+- `po1.pdf` — detailed project report (Serbian)
 
 ## Requirements
 numpy, matplotlib, skimage, scikit-learn
