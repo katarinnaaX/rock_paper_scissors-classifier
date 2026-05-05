@@ -19,7 +19,6 @@ assuming Gaussian-distributed features per class.
 | Metric        | Value  |
 |---------------|--------|
 | Test accuracy | 94.15% |
-| Classes       | rock, paper, scissors |
 | Split         | 80/20 stratified |
 
 ## Files
