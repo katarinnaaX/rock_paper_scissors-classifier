@@ -1,4 +1,4 @@
-# Rock-Paper-Scissors Hand Gesture Classifier
+# Rock-Paper-Scissors Classifier
 
 Statistical pattern recognition system for classifying hand gestures 
 (rock, paper, scissors) using HSV segmentation and a Bayesian classifier.
@@ -23,8 +23,8 @@ assuming Gaussian-distributed features per class.
 | Split    | 80/20 stratified |
 
 ## Files
-- `po.ipynb` — full implementation notebook
-- `report.pdf` — detailed project report (Serbian)
+- `po1.ipynb` — full implementation notebook
+- `report.pdf` — detailed project report
 
 ## Requirements
-numpy, matplotlib, opencv-python, scikit-learn
+numpy, matplotlib, skimage, scikit-learn
